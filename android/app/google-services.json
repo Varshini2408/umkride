@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "488230873073",
+    "firebase_url": "https://umkrides-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "umkrides",
+    "storage_bucket": "umkrides.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488230873073:android:fd2e40049f1f95a1670650",
+        "android_client_info": {
+          "package_name": "com.example.umkride_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjI6yia4L5Szu-7cEHiWUZmGWLsWTC_nY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488230873073:android:27d0b27e5ca128e7670650",
+        "android_client_info": {
+          "package_name": "com.umkride.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjI6yia4L5Szu-7cEHiWUZmGWLsWTC_nY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488230873073:android:43e2e4493561be7c670650",
+        "android_client_info": {
+          "package_name": "com.umkride.flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjI6yia4L5Szu-7cEHiWUZmGWLsWTC_nY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
